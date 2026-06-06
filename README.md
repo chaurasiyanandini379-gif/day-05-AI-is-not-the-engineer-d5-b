@@ -53,6 +53,21 @@ You own:
 - safer v1 plan
 - founder-ready trust recommendation
 
+## Provided To Solve The Case
+
+- Student challenge brief
+- FlashCart scenario package
+- Assigned D5-B AI recommendation pack
+- AI Trust Decision Brief template
+- AI Judgment Defense Video guide
+
+## Outcome Artifacts You Get
+
+- AI Trust Decision Brief
+- Trust / Modify / Block / Needs Proof classifications
+- Safer engineering action plan
+- AI Judgment Defense Video
+
 ## Materials
 
 Use:
