@@ -83,8 +83,10 @@ Use:
 Submit only:
 
 1. AI Trust Decision Brief
-2. 3-minute AI Judgment Defense Video
-3. Founder viva
+2. [AI Recommendation Classification Matrix](./submission-templates/ai-recommendation-classification-matrix-template.md)
+3. [Safer Engineering Action Plan](./submission-templates/safer-engineering-action-plan-template.md)
+4. 3-minute AI Judgment Defense Video
+5. Founder viva
 
 No giant audit worksheet. No separate architecture essay. No anti-AI rant.
 
